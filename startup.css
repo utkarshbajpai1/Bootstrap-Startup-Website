@@ -75,6 +75,19 @@ img{
     margin-bottom: -8rem;
 }
 
+.feature-alt{
+    background:#f0f0f0;
+}
+
+#feature-four .feature-content{
+    padding:0;
+}
+
+#feature-five img{
+    margin-top:2rem;
+}
+
+
 
 @media screen and ( min-width : 991px ){
     .feature-content{
