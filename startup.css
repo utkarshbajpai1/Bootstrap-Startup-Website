@@ -56,3 +56,30 @@ img{
     font-weight:bold;
     text-transform:uppercase;
 }
+
+.feature-content {  /** impo **/
+    padding: 8rem 0;
+    overflow: hidden;
+}
+
+.feature-dark{
+    background-color:#262F36 ;
+    color:white;
+}
+
+.feature-dark h2{
+    color:white;
+}
+
+.feature-content img{
+    margin-bottom: -8rem;
+}
+
+
+@media screen and ( min-width : 991px ){
+    .feature-content{
+    display:flex;
+align-items:center;
+}
+
+}
